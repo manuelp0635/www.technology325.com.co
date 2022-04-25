@@ -1,4 +1,3 @@
-# www.technology325.com.co
 
 <!DOCTYPE html>
 <html lang="es">
@@ -113,7 +112,7 @@
             </section>
         </section>
         <center>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3924.269334487107!2d-75.48489013470807!3d10.400170168868346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x8ef625b51c222ba5%3A0x22b88446cc2c2c88!2sTienda%20El%20Guajiro%2C%20Tv.%2071a%20%2331H-53%2C%20Cartagena%20de%20Indias%2C%20Provincia%20de%20Cartagena%2C%20Bol%C3%ADvar!3m2!1d10.400647099999999!2d-75.48339899999999!4m5!1s0x8ef625a745f0cbb3%3A0x74cc19cd2427a2ed!2sedificio%20minerva.%2C%20Tv.%2071c%20%2331i-129%2C%20a%2C%201%2C%2031i%2C%20Cartagena%20de%20Indias%2C%20Bol%C3%ADvar!3m2!1d10.3995258!2d-75.48201089999999!5e0!3m2!1ses-419!2sco!4v1650772503169!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3924.269334487107!2d-75.48489013470807!3d10.400170168868346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x8ef625b51c222ba5%3A0x22b88446cc2c2c88!2sTienda%20El%20Guajiro%2C%20Tv.%2071a%20%2331H-53%2C%20Cartagena%20de%20Indias%2C%20Provincia%20de%20Cartagena%2C%20Bol%C3%ADvar!3m2!1d10.400647099999999!2d-75.48339899999999!4m5!1s0x8ef625a745f0cbb3%3A0x74cc19cd2427a2ed!2sedificio%20minerva.%2C%20Tv.%2071c%20%2331i-129%2C%20a%2C%201%2C%2031i%2C%20Cartagena%20de%20Indias%2C%20Bol%C3%ADvar!3m2!1d10.3995258!2d-75.48201089999999!5e0!3m2!1ses-419!2sco!4v1650772503169!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </center>
     </main>
 
