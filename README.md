@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -8,25 +7,18 @@
    <meta name="apple-mobile-web-app-capable" content="yes">
    <meta name="robots" content="index,follow, max-image-previw:large, max-snippet:-1, max-video-preview:-1">
    <title>Technology325</title>
-   <meta name="description"
-   content="Tecnocell alpes">
    <link rel="canonical" href="">
    <meta property="og:locale" content="es_Es">
    <meta property="og:type" content="article">
-   <meta property="og:title" content="Tecnocell alpes">
-   <meta property="og:description" content="Tecnocell alpes">
-   <link rel="shortcut icon" href="/Sitio web/images/logo proyecto.jpeg" type="img/x-icon">
-   <meta property="og:url" content="https://Tecnocell alpes/tienda-de-reparacion-telefonos-moviles/">
+   <link rel="shortcut icon" href="/logo proyecto.jpeg" type="img/x-icon">
    <meta property="og:site_name" content="Diseño de pagina web en Cartagena, Bolivar.">
-   <meta property="articule:publis" content="https://www.facebook.com/SedeAlpes/?ti=as"> 
    <meta property="articule:published_time" content="2018-05-14T12:16:47+00:00">
-   <meta property="article:modified_time"content="https://www.tecnocell.com/wp-content/uploads/2018/05/diseño-de-paginas-web-tu-movil-express.jpg">
    <meta property="og:image:width" content="715">
    <meta property="og:image:height" content="800">
    <meta property="og:image:type"content="image/jpge">
    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
    <link href='https://unpkg.com/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
-   <link rel="stylesheet" href="/Sitio web/Css/style.css">
+   <link rel="stylesheet" href="/style.css">
    <meta name="instagram:label1"
    content="Escrito por">
    <meta name="instagram:data1" content="Manuel Perez">
@@ -40,7 +32,7 @@
 <body>
     
     <header class="header" id="inicio">
-        <img class="hamburguer" src="/Sitio web/images/hamburguesa.svg" alt="">
+        <img class="hamburguer" src="/images/hamburguesa.svg" alt="">
         <nav class="menu-navegacion">
                 <a href="#inicio">Inicio</a>
                 <a href="#servicio">Quienes somos</a>
@@ -49,19 +41,19 @@
         </nav>
 
         <center>
-        <img class="logo" src="/Sitio web/images/logo proyecto.jpeg" alt="">
+        <img class="logo" src="/logo proyecto.jpeg" alt="">
        </center>
     </header>
     <main>
         <section class="services contenedor" id="servicio">
             <h2 class="subtitulo">Quienes somos</h2>
             <div class="contenedor-servicio">
-                <img src="/Sitio web/images/logo proyecto.jpeg" alt="">
+                <img src="/logo proyecto.jpeg" alt="">
                 <div class="checklist-servicio">
                     <div class="service">
                         <h3 class="n-service">Somos una empresa  </h3>
                            <p>que nacio para brindar servicio especializado a todo <b> tipo de usuario</b> con el fin de poder brindar una <b>excelente atencion,</b> y <b>orientacion</b> a los usuarios.</p>
-                            <img src="/images/Cliente.jpg" alt="">
+                            <img src="/Cliente.jpg" alt="">
                     </div>
                     <div class="service">
                         <h3 class="n-service"><span class="number">1</span>Problemas frecuentes</h3>
@@ -86,10 +78,10 @@
             <div class="contenedor">
                 <h2 class="subtitulo">Servicios</h2>
                 <div class="contenedor-galeria">
-                    <img src="/Sitio web/images/Servicios mantenimiento.png" class="img-galeria" alt="">
-                    <img src="/Sitio web/images/soporte a usuarios.png" class="img-galeria" alt="Aux de sistemas">
-                    <img src="/Sitio web/images/respaldo de datos.png" class="img-galeria" alt="Desarrollador">
-                    <img src="/Sitio web/images/soporte a impresoras.png" class="img-galeria" alt="Desarrollador">
+                    <img src="/Servicios mantenimiento.png" class="img-galeria" alt="">
+                    <img src="/soporte a usuarios.png" class="img-galeria" alt="Aux de sistemas">
+                    <img src="/respaldo de datos.png" class="img-galeria" alt="Desarrollador">
+                    <img src="/soporte a impresoras.png" class="img-galeria" alt="Desarrollador">
                 </div>
             </div>
         </section>
@@ -101,18 +93,18 @@
             <h2 class="subtitulo">Expertos en:</h2>
             <section class="experts">
                 <div class="cont-expert">
-                    <img src="/Sitio web/images/Impresora.jpeg" alt="">
+                    <img src="/Impresora.jpeg" alt="">
                 </div>
                 <div class="cont-expert">
-                    <img src="/Sitio web/images/Sistemas.jpg" alt="">
+                    <img src="/Sistemas.jpg" alt="">
                 </div>
                 <div class="cont-expert">
-                    <img src="/Sitio web/images/sistemas-nuevo.png" alt="">
+                    <img src="/sistemas-nuevo.png" alt="">
                 </div>
             </section>
         </section>
         <center>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3924.269334487107!2d-75.48489013470807!3d10.400170168868346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x8ef625b51c222ba5%3A0x22b88446cc2c2c88!2sTienda%20El%20Guajiro%2C%20Tv.%2071a%20%2331H-53%2C%20Cartagena%20de%20Indias%2C%20Provincia%20de%20Cartagena%2C%20Bol%C3%ADvar!3m2!1d10.400647099999999!2d-75.48339899999999!4m5!1s0x8ef625a745f0cbb3%3A0x74cc19cd2427a2ed!2sedificio%20minerva.%2C%20Tv.%2071c%20%2331i-129%2C%20a%2C%201%2C%2031i%2C%20Cartagena%20de%20Indias%2C%20Bol%C3%ADvar!3m2!1d10.3995258!2d-75.48201089999999!5e0!3m2!1ses-419!2sco!4v1650772503169!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3924.269334487107!2d-75.48489013470807!3d10.400170168868346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x8ef625b51c222ba5%3A0x22b88446cc2c2c88!2sTienda%20El%20Guajiro%2C%20Tv.%2071a%20%2331H-53%2C%20Cartagena%20de%20Indias%2C%20Provincia%20de%20Cartagena%2C%20Bol%C3%ADvar!3m2!1d10.400647099999999!2d-75.48339899999999!4m5!1s0x8ef625a745f0cbb3%3A0x74cc19cd2427a2ed!2sedificio%20minerva.%2C%20Tv.%2071c%20%2331i-129%2C%20a%2C%201%2C%2031i%2C%20Cartagena%20de%20Indias%2C%20Bol%C3%ADvar!3m2!1d10.3995258!2d-75.48201089999999!5e0!3m2!1ses-419!2sco!4v1650772503169!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe>
         </center>
     </main>
 
@@ -147,6 +139,96 @@
     <script src="js/lightbox.js"></script>
 </body>
 </html>
+
+let ubicacionPrincipal = window.pageYOffset; //0
+
+  AOS.init();
+
+window.addEventListener("scroll", function(){
+    let desplazamientoActual = window.pageYOffset; //180
+    if(ubicacionPrincipal >= desplazamientoActual){ // 200 > 180
+        document.getElementsByTagName("nav")[0].style.top = "0px"
+    }else{
+        document.getElementsByTagName("nav")[0].style.top = "-100px"
+    }
+    ubicacionPrincipal= desplazamientoActual; //200
+
+})
+
+// Menu
+
+let enlacesHeader = document.querySelectorAll(".enlaces-header")[0];
+let semaforo = true;
+
+document.querySelectorAll(".hamburguer")[0].addEventListener("click", function(){
+    if(semaforo){
+        document.querySelectorAll(".hamburguer")[0].style.color ="#fff";
+        semaforo= false;
+    }else{
+        document.querySelectorAll(".hamburguer")[0].style.color ="#000";
+        semaforo= true;
+    }
+
+    enlacesHeader.classList.toggle("menudos")
+})
+
+const hamburguer = document.querySelector('.hamburguer')
+const menu = document.querySelector('.menu-navegacion')
+
+
+hamburguer.addEventListener('click', ()=>{
+    menu.classList.toggle("spread")
+})
+
+window.addEventListener('click', e =>{
+    if(menu.classList.contains('spread') 
+        && e.target != menu && e.target != hamburguer){
+        console.log('cerrar')
+        menu.classList.toggle("spread")
+    }
+})
+//comentaario//
+
+const imagenes = document.querySelectorAll('.img-galeria')
+const imagenLight = document.querySelector('.agregar-imagen');
+const contenedorLight = document.querySelector('.imagen-light')
+const closeLight = document.querySelector('.close')
+
+
+imagenes.forEach(imagen => {
+    imagen.addEventListener('click',()=>{
+        aparecerImagen(imagen.getAttribute('src'));
+    })
+});
+
+contenedorLight.addEventListener('click',(e)=>{
+    if(e.target !== imagenLight){
+        contenedorLight.classList.toggle('show')
+        imagenLight.classList.toggle('showImage')
+        hamburguer.style.opacity = '1';
+    }
+})
+
+
+const aparecerImagen = (imagen)=>{
+    imagenLight.src = imagen;
+    contenedorLight.classList.toggle('show')
+    imagenLight.classList.toggle('showImage')
+    hamburguer.style.opacity = '0';
+}
+
+function findLargest(numbers){
+    // Your code goes here
+    console.log(findLargest(19));
+}
+
+function computeClosestToZero(ts){
+    // Write your code here
+    // To debug: console.error('Debug messaages...');
+    // 0 ≤ ts size ≤ 10000
+    // 100 ≥ ts size ≥ 10000
+    return -1;
+}
 
 *{
     margin: 0;
@@ -544,10 +626,12 @@ footer{
         margin-left: 0;
     }
 
-    .contact-us{
+    .contact-us{![soporte a usuarios](https://user-images.githubusercontent.com/92071461/165185129-5007ed07-9ef0-4d37-bacd-b45faaa7e5b0.png)
+
         text-align: center;
         width: 95%;
         margin-bottom: 40px;
     }
     
 }
+
